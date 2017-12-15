@@ -311,11 +311,11 @@ footer{
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	overflow: 0;
+	opacity: 0;
 	transition: 1s;
 }
 .music:hover{
-	overflow: 1;
+	opacity: 1;
 }
 /*小于768 移动端 col-xs- */
 @media  screen and (max-width:768px ) {
