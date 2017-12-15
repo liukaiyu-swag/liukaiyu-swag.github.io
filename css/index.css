@@ -312,7 +312,6 @@ footer{
 	bottom: 0;
 	width: 100%;
 	opacity: 0;
-	transition: 1s;
 }
 .music:hover{
 	opacity: 1;
